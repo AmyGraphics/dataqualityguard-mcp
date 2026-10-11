@@ -40,3 +40,10 @@ Solana USDC:
 ## Artifacts
 
 The cleaning report returns original row count, cleaned records, rejected records, row-level reasons and transparent normalization rules. Original data is never silently deleted.
+
+
+## Why this MCP is worth using
+
+CSV/JSON dataset → profile, validation findings, cleaned records, rejected records and transparent row-level reasons.
+
+This outcome is the product value; the tool count is only an implementation detail.
