@@ -35,3 +35,8 @@ Solana USDC:
 ```text
 8sDLX3okSV974wdjdeKhN9uWLZDr45DeGCJ28zgTLEdJ
 ```
+
+
+## Artifacts
+
+The cleaning report returns original row count, cleaned records, rejected records, row-level reasons and transparent normalization rules. Original data is never silently deleted.
